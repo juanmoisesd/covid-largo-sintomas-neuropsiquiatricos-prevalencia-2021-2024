@@ -22,21 +22,16 @@ tags:
 
 # Prevalencia global de síntomas neurológicos y psiquiátricos del COVID Largo (nie
 
-- **DOI:** [https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QUWC1F](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QUWC1F)
-- **GitHub:** [juanmoisesd/covid-largo-sintomas-neuropsiquiatricos-prevalencia-2021-2024](https://github.com/juanmoisesd/covid-largo-sintomas-neuropsiquiatricos-prevalencia-2021-2024)
-- **License:** CC BY 4.0
-- **Author:** de la Serna, Juan Moisés
+**DOI:** [https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QUWC1F](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QUWC1F) | **GitHub:** [juanmoisesd/covid-largo-sintomas-neuropsiquiatricos-prevalencia-2021-2024](https://github.com/juanmoisesd/covid-largo-sintomas-neuropsiquiatricos-prevalencia-2021-2024) | **License:** CC BY 4.0
 
-## Load
-
+## Quick load
 ```python
 import pandas as pd
-# See Zenodo for actual filenames
-df = pd.read_csv("https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QUWC1F/files/data.csv")
+# See https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QUWC1F for file listing
+df = pd.read_csv("URL_FROM_ZENODO")
 ```
 
-## Citation
-
+## Cite
 ```bibtex
 @dataset{delaserna2025,author={de la Serna, Juan Moisés},title={Prevalencia global de síntomas neurológicos y psiquiátricos },year={2025},doi={https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QUWC1F},url={https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QUWC1F}}
 ```
