@@ -1,0 +1,13 @@
+from setuptools import setup, find_packages
+setup(
+    name="covid-largo-sintomas-neuropsiquiatricos-prevalencia-2021-2024",
+    version="1.0.0",
+    description="Prevalencia global de síntomas neurológicos y psiquiátricos del COVID Largo (niebla mental, ansiedad",
+    author="de la Serna, Juan Moisés",
+    url="https://github.com/juanmoisesd/covid-largo-sintomas-neuropsiquiatricos-prevalencia-2021-2024",
+    packages=find_packages(),
+    install_requires=["pandas>=1.3.0","requests>=2.26.0"],
+    python_requires=">=3.7",
+    classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],
+    keywords="covid-19, covid-largo, dataset, neuropsiquiatrico, niebla-mental, open-data, pasc, salud-mental, zenodo, open-data",
+)
