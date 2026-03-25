@@ -1,0 +1,23 @@
+{
+  "title": "Prevalencia global de síntomas neurológicos y psiquiátricos del COVID Largo (nie",
+  "id": "juanmoisesd/covid-largo-sintomas-neuropsiquiatricos-prevalenci",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "covid-19",
+    "covid-largo",
+    "dataset",
+    "neuropsiquiatrico",
+    "niebla-mental",
+    "open-data",
+    "pasc",
+    "salud-mental",
+    "open-data",
+    "research"
+  ],
+  "description": "Prevalencia global de síntomas neurológicos y psiquiátricos del COVID Largo (niebla mental, ansiedad, depresión, deterioro cognitivo) 2021-2024. DOI: 10.7910/DVN/QUWC1F\n\nDOI: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QUWC1F\nGitHub: https://github.com/juanmoisesd/covid-largo-sintomas-neuropsiquiatricos-prevalencia-2021-2024\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
