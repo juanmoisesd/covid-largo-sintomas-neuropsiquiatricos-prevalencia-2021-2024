@@ -4,23 +4,17 @@
   "name": "Prevalencia global de síntomas neurológicos y psiquiátricos del COVID Largo (niebla mental, ansiedad",
   "version": "1.0.0",
   "identifier": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QUWC1F",
-  "datePublished": "2025",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "codeRepository": "https://github.com/juanmoisesd/covid-largo-sintomas-neuropsiquiatricos-prevalencia-2021-2024",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "Universidad Internacional de La Rioja (UNIR)"
-      }
+      "familyName": "de la Serna"
     }
   ],
   "programmingLanguage": [
     "Python",
     "Jupyter Notebook"
-  ],
-  "keywords": "covid-19, covid-largo, dataset, neuropsiquiatrico, niebla-mental, open-data, pasc, salud-mental"
+  ]
 }
