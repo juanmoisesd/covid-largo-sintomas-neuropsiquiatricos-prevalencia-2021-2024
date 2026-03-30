@@ -1,7 +1,40 @@
-# COVID Largo: Sintomas Neurologicos y Psiquiatricos - Prevalencia Global 2021-2024
+# COVID-19 Largo: Síntomas Neuropsiquiátricos – Prevalencia (2021–2024)
 
-[![DOI](https://img.shields.io/badge/DOI-10.7910/DVN/QUWC1F-blue)](https://doi.org/10.7910/DVN/QUWC1F) [![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Harvard Dataverse](https://img.shields.io/badge/Harvard-Dataverse-red)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QUWC1F)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19145316-blue?logo=doi)](https://doi.org/10.5281/zenodo.19145316)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8401--8018-green?logo=orcid)](https://orcid.org/0000-0002-8401-8018)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Collection](https://img.shields.io/badge/Collection_DOI-10.5281%2Fzenodo.19145316-blue?logo=zenodo)](https://doi.org/10.5281/zenodo.19145316)
 
-Niebla mental 32-60% (Colombia 60% a 2-3 anios) | Fatiga 74% | Ansiedad 23-44% | Depresion 12-30% | Deterioro cognitivo 17,5-33%. 15 paises. 20 archivos.
+> Parte de la **[Colección de Investigación Abierta](https://doi.org/10.5281/zenodo.19145316)** — 1,273+ datasets
 
-**DOI:** https://doi.org/10.7910/DVN/QUWC1F | **Autor:** Juan Moises de la Serna | ORCID: 0000-0002-8401-8018
+## Descripción
+
+Base de datos sobre síntomas neuropsiquiátricos del COVID-19 largo en América Latina (2021-2024). Incluye prevalencia, duración y factores de riesgo por país. Principios FAIR, licencia CC0.
+
+## 📝 Cómo Citar
+
+Si usas este recurso, por favor cita:
+
+```bibtex
+@misc{delaserna2024covid_largo,
+  author    = {de la Serna Tuya, Juan Moisés},
+  title     = {COVID-19 Largo: Síntomas Neuropsiquiátricos – Prevalencia (2021–2024)},
+  year      = {2024},
+  doi       = {10.5281/zenodo.19145316},
+  url       = {https://github.com/juanmoisesd/covid-largo-sintomas-neuropsiquiatricos-prevalencia-2021-2024},
+  publisher = {Zenodo},
+  license   = {CC0-1.0}
+}
+```
+
+**APA:** de la Serna Tuya, J. M. (2024). *COVID-19 Largo: Síntomas Neuropsiquiátricos – Prevalencia (2021–2024)*. https://doi.org/10.5281/zenodo.19145316
+
+## ⚖️ Licencia
+
+[![CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+Dominio Público (CC0 1.0). Libre para usar, compartir y modificar.
+
+---
+
+**Juan Moisés de la Serna Tuya** · UNIR · [ORCID](https://orcid.org/0000-0002-8401-8018) · [GitHub](https://github.com/juanmoisesd)
